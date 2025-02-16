@@ -1,6 +1,6 @@
 staticfiles/
-envs/*
-!.envs/env.example
+.envs/*
+!.envs/.env.example
 
 
 ### Django ###
