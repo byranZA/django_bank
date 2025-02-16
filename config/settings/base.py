@@ -25,7 +25,7 @@ DJANGO_APPS = [
 ]
 
 THIRD_PARTY_APPS = [
-    "restframework",
+    "rest_framework",
     "django_countries",
     "phonenumber_field",
     "drf_spectacular",
